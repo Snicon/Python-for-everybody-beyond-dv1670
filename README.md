@@ -14,8 +14,8 @@ Due to being quite pre-occupied with all my courses for now I'll leave this repo
 | 6. Strings                                 | &#9745;   | Course repo     |
 | 7. Files                                   | &#9744;   | Course repo     |
 | 8. Lists                                   | &#9745;   | Course repo     |
-| 9. Dictionaries                            | &#9744;   | Course repo     |
-| 10. Tuples                                 | &#9744;   | Course repo     |
+| 9. Dictionaries                            | &#9745;   | Course repo     |
+| 10. Tuples                                 | &#9745;   | Course repo     |
 | 11. Regular expressions                    | &#9744;   | This repo       |
 | 12. Networked programs                     | &#9744;   | This repo       |
 | 13. Using Web Services                     | &#9744;   | This repo       |
